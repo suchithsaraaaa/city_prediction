@@ -4,7 +4,7 @@
 
 Empowering urban planners, developers, and researchers with data-driven insights, machine learning predictions, and real-time economic intelligence. This platform aggregates global city data to forecast urban growth trends for 2025-2030.
 
-![City Growth Dashboard](https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?q=80&w=2070&auto=format&fit=crop) *(Placeholder Image - Replace with actual dashboard screenshot)*
+![City Growth Dashboard](https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?q=80&w=2070&auto=format&fit=crop)
 
 ## 🚀 Key Features
 
